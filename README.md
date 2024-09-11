@@ -10,34 +10,29 @@ Each link below will take you directly to a detailed analysis hosted on our webs
 
 We are using [Middleware Open Source](https://github.com/middlewarehq/middleware) to build an analysis of each repository. This simply means that if you are curious you can invest a few minutes to set things up locally and dive into any repository yourself as well!
 
----
-
 ## 📚 Case Studies
 
 Below is the list of published case studies.
 
-1. [Ruby Repository's Lightning-Fast Merges](https://middlewarehq.com/blog/how-the-ruby-repository-masters-fast-merges-cutting-corners-or-genius-efficiency): Analyzing how the Ruby repository maintains rapid merge speeds amidst high contribution volumes.
+1. [Ruby Repository's Lightning-Fast Merges](https://middlewarehq.com/blog/how-the-ruby-repository-masters-fast-merges-cutting-corners-or-genius-efficiency?utm_source=github&utm_medium=100daysrepo): Analyzing how the Ruby repository maintains rapid merge speeds amidst high contribution volumes.
 
-2. React Repository - (Coming on 11 September, 2024)
+2. [React Repository's Struggles](https://middlewarehq.com/blog/react-repository-a-look-into-their-speedy-features-bug-fixing-delays?utm_source=github&utm_medium=100daysrepo): A deeper look into this huge repo that ships fast but struggles with slow bug fixes.
 
 3. freeCodeCamp Repository - (Coming on 12 September, 2024)
 
-4. Vue.js (Coming on 13 September, 2024)
+4. Vue.js - (Coming on 13 September, 2024)
 
 5. Coming Soon.
 
----
 
 ## 🔗 How to Contribute
 
 We welcome contributions! If you have suggestions or want to contribute to enhance these case studies, feel free to submit a pull request or open an issue.
 
----
 
 ## 📧 Get in Touch
 
 If you have questions, suggestions, or want to collaborate, feel free to reach out to us at [contact@middleware.com](mailto:contact@middleware.com) or connect with us on [LinkedIn](https://www.linkedin.com/company/middlewarehq).
 
----
 
 Stay tuned as we continue this journey of exploring top repositories and learning about what makes them God Level one case study at a time!🎉
