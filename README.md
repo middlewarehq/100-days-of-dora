@@ -1,3 +1,4 @@
+![Dora metrics case studdies banner](https://github.com/middlewarehq/100-days-of-dora/blob/main/github%20banner.jpg)
 # 100 Days of Dora 🚀
 
 Welcome to the **100 Dora Metrics Case Studies of God Level Repositories Using Middleware Open Source** repository! 🎉
@@ -18,9 +19,9 @@ Below is the list of published case studies.
 
 2. [React Repository's Struggles](https://middlewarehq.com/blog/react-repository-a-look-into-their-speedy-features-bug-fixing-delays?utm_source=github&utm_medium=100daysrepo): A deeper look into this huge repo that ships fast but struggles with slow bug fixes.
 
-3. freeCodeCamp Repository - (Coming on 12 September, 2024)
+3. [freeCodeCamp Repository's Quality vs Speed Battle](https://middlewarehq.com/blog/is-freecodecamp-sacrificing-quality-for-speed-with-their-rapid-deployments?utm_source=github&utm_medium=100daysrepo): Rapid development workflow but what about the rework time slowdowns?
 
-4. Vue.js - (Coming on 13 September, 2024)
+4. Swift - (Coming on 13 September, 2024)
 
 5. Coming Soon.
 
