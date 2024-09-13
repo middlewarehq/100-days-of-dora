@@ -21,7 +21,7 @@ Below is the list of published case studies.
 
 3. [freeCodeCamp Repository's Quality vs Speed Battle](https://middlewarehq.com/blog/is-freecodecamp-sacrificing-quality-for-speed-with-their-rapid-deployments?utm_source=github&utm_medium=100daysrepo): Rapid development workflow but what about the rework time slowdowns?
 
-4. Swift - (Coming on 13 September, 2024)
+4. [Vue.js Repository's No Review Merges!](https://middlewarehq.com/blog/vuejs-case-study-dora-metrics-speed-demon-or-just-high-risk-gambler?utm_source=github&utm_medium=100daysrepo): The most interesting thing would definitely be automation to the point that 88 out of 99 merges in 3 months happened without a formal review!
 
 5. Coming Soon.
 
