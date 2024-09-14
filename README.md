@@ -23,7 +23,9 @@ Below is the list of published case studies.
 
 4. [Vue.js Repository's No Review Merges!](https://middlewarehq.com/blog/vuejs-case-study-dora-metrics-speed-demon-or-just-high-risk-gambler?utm_source=github&utm_medium=100daysrepo): The most interesting thing would definitely be automation to the point that 88 out of 99 merges in 3 months happened without a formal review!
 
-5. Coming Soon.
+5. [Swiftlang/Swift Repository](https://middlewarehq.com/blog/swift-deployments-are-they-swift-or-recklessly-rushed?utm_source=github&utm_medium=100daysrepo): Not as swift as we initially thought, but does that really matter?
+
+6. Coming Soon.
 
 
 ## 🔗 How to Contribute
