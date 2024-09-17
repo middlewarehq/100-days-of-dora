@@ -26,8 +26,10 @@ Below is the list of published case studies.
 5. [Swiftlang/Swift Repository](https://middlewarehq.com/blog/swift-deployments-are-they-swift-or-recklessly-rushed?utm_source=github&utm_medium=100daysrepo): Not as swift as we initially thought, but does that really matter?
 
 6. [React Native](https://middlewarehq.com/blog/react-natives-cicd-unveiled-the-truth-behind-its-cycle-time-triumphs-and-stumbles?utm_source=github&utm_medium=100daysrepo): There seems to be a speed breaker for the merge time!
+
+7. [JuliaLang Repo](https://middlewarehq.com/blog/julialang-performance-prowess-or-just-smoke-and-mirrors-dora-metrics-case-study?utm_source=github&utm_medium=100daysrepo): The JuliaLang/Julia repository is rocking a consistently high deployment frequency.
   
-7. Coming Soon.
+8. Coming Soon.
 
 
 ## 🔗 How to Contribute
