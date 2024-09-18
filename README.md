@@ -29,7 +29,9 @@ Below is the list of published case studies.
 
 7. [JuliaLang Repo](https://middlewarehq.com/blog/julialang-performance-prowess-or-just-smoke-and-mirrors-dora-metrics-case-study?utm_source=github&utm_medium=100daysrepo): The JuliaLang/Julia repository is rocking a consistently high deployment frequency.
   
-8. Coming Soon.
+8. [Carbon](https://middlewarehq.com/blog/is-carbon-language-moving-towards-success-or-self-destruction-dora-metrics-case-study-in-rapid-deployments?utm_source=github&utm_medium=100daysrepo): Let's look into what fuels their rapid deployments engine!
+
+9. Coming soon
 
 
 ## 🔗 How to Contribute
