@@ -31,7 +31,9 @@ Below is the list of published case studies.
   
 8. [Carbon](https://middlewarehq.com/blog/is-carbon-language-moving-towards-success-or-self-destruction-dora-metrics-case-study-in-rapid-deployments?utm_source=github&utm_medium=100daysrepo): Let's look into what fuels their rapid deployments engine!
 
-9. Coming soon
+9. [OpenVINO](https://middlewarehq.com/blog/openvinos-ai-success-brilliance-or-cracks-beneath-the-surface?utm_source=github&utm_medium=100daysrepo): Seems like there might be cracks beneath the surface here!
+
+10. Coming soon
 
 
 ## 🔗 How to Contribute
