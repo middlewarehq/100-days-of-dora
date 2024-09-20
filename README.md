@@ -33,7 +33,9 @@ Below is the list of published case studies.
 
 9. [OpenVINO](https://middlewarehq.com/blog/openvinos-ai-success-brilliance-or-cracks-beneath-the-surface?utm_source=github&utm_medium=100daysrepo): Seems like there might be cracks beneath the surface here!
 
-10. Coming soon
+10. [FreeCAD](https://middlewarehq.com/blog/is-freecad-nailing-prs-or-just-blazing-through-merges?utm_source=github&utm_medium=100daysrepo): Super-fast merge times, solid PR management, but a need to fine-tune that Cycle Time.
+
+11. Coming soon
 
 
 ## 🔗 How to Contribute
