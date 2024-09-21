@@ -35,7 +35,9 @@ Below is the list of published case studies.
 
 10. [FreeCAD](https://middlewarehq.com/blog/is-freecad-nailing-prs-or-just-blazing-through-merges?utm_source=github&utm_medium=100daysrepo): Super-fast merge times, solid PR management, but a need to fine-tune that Cycle Time.
 
-11. Coming soon
+11. [Nextjs](https://middlewarehq.com/blog/is-nextjs-the-next-evolution-or-just-a-passing-trend-a-dora-metrics-case-study?utm_source=github&utm_medium=100daysrepo): Could their Cycle Time be hiding a bigger mess than we thought, or is it just a minor hiccup?
+
+12. Coming soon
 
 
 ## 🔗 How to Contribute
