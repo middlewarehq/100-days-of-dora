@@ -37,7 +37,9 @@ Below is the list of published case studies.
 
 11. [Nextjs](https://middlewarehq.com/blog/is-nextjs-the-next-evolution-or-just-a-passing-trend-a-dora-metrics-case-study?utm_source=github&utm_medium=100daysrepo): Could their Cycle Time be hiding a bigger mess than we thought, or is it just a minor hiccup?
 
-12. Coming soon
+12. [OpenStreetMap](https://middlewarehq.com/blog/optimizing-openstreetmaps-devops-efficiency-a-data-driven-dora-metrics-analysis?utm_source=github&utm_medium=100daysrepo): Impressive first response time, good but not great deployment frequency, auomation and more!
+
+13. Coming soon
 
 
 ## 🔗 How to Contribute
