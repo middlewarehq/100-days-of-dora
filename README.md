@@ -39,7 +39,9 @@ Below is the list of published case studies.
 
 12. [OpenStreetMap](https://middlewarehq.com/blog/optimizing-openstreetmaps-devops-efficiency-a-data-driven-dora-metrics-analysis?utm_source=github&utm_medium=100daysrepo): Impressive first response time, good but not great deployment frequency, auomation and more!
 
-13. Coming soon
+13. [Bootstrap](https://middlewarehq.com/blog/bootstrap-strong-merge-and-cycle-times-dora-metrics-case-study?utm_source=github&utm_medium=100daysrepo): Not the most widely used one these days but definitely not forgotten! A more than 3x improvement in lead times from June to August 2024, interesting case study.
+
+14. 
 
 
 ## 🔗 How to Contribute
