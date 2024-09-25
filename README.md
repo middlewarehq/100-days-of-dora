@@ -41,7 +41,9 @@ Below is the list of published case studies.
 
 13. [Bootstrap](https://middlewarehq.com/blog/bootstrap-strong-merge-and-cycle-times-dora-metrics-case-study?utm_source=github&utm_medium=100daysrepo): Not the most widely used one these days but definitely not forgotten! A more than 3x improvement in lead times from June to August 2024, interesting case study.
 
-14. 
+14. [Hugging Face](https://middlewarehq.com/blog/hugging-face-and-dora-metrics-fast-code-slow-response?utm_source=github&utm_medium=100daysrepo): One of the most prominent names in Artificial Intelligence on the planet right now!
+
+15.  
 
 
 ## 🔗 How to Contribute
