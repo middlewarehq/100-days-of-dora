@@ -43,7 +43,9 @@ Below is the list of published case studies.
 
 14. [Hugging Face](https://middlewarehq.com/blog/hugging-face-and-dora-metrics-fast-code-slow-response?utm_source=github&utm_medium=100daysrepo): One of the most prominent names in Artificial Intelligence on the planet right now!
 
-15.  
+15. [Flutter](https://middlewarehq.com/blog/flutter-engineering-pipeline-dora-metrics-case-study?utm_source=github&utm_medium=100daysrepo): We've all played around with it, but under the hood things don't flutter around as much.
+
+16. Soon
 
 
 ## 🔗 How to Contribute
