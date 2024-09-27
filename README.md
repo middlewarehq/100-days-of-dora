@@ -45,7 +45,9 @@ Below is the list of published case studies.
 
 15. [Flutter](https://middlewarehq.com/blog/flutter-engineering-pipeline-dora-metrics-case-study?utm_source=github&utm_medium=100daysrepo): We've all played around with it, but under the hood things don't flutter around as much.
 
-16. Soon
+16. [Typescript](https://middlewarehq.com/blog/typescript-dora-metrics-case-study?utm_source=github&utm_medium=100daysrepo): Almost 800 contributors, making frontend easy, but how about the health of the project as a whole? We have a deep case study for you.
+
+17. Soon
 
 
 ## 🔗 How to Contribute
