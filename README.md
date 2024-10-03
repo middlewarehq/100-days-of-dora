@@ -47,7 +47,13 @@ Below is the list of published case studies.
 
 16. [Typescript](https://middlewarehq.com/blog/typescript-dora-metrics-case-study?utm_source=github&utm_medium=100daysrepo): Almost 800 contributors, making frontend easy, but how about the health of the project as a whole? We have a deep case study for you.
 
-17. Soon
+17. [Node.js](https://middlewarehq.com/blog/nodejs-dora-metrics-faster-deployments-slower-merge-times?utm_source=github&utm_medium=100daysrepo): Fast deployments but slower merge times
+
+18. [Electron](https://middlewarehq.com/blog/electron-repo-dora-metrics-analysis-unpredictable-metrics-efficient-deployments?utm_source=github&utm_medium=100daysrepo): A repo filled with unpredictability
+
+19. [Kubernetes](https://middlewarehq.com/blog/kubernetes-an-efficient-engineering-pipeline-with-thorough-documentation-dora-metrics?utm_source=github&utm_medium=100daysrepo): An Efficient Engineering Pipeline with thorough documentation & thriving community
+
+20. [Jenkins](https://middlewarehq.com/blog/jenkins-dora-metrics-cicd-leader-with-high-deployments-slower-cycle-time?utm_source=github&utm_medium=100daysrepo): CI/CD Leader With High Deployments, Slower Cycle Time
 
 
 ## 🔗 How to Contribute
